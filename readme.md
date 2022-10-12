@@ -39,9 +39,11 @@ compositions.</h4>
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
-  Frontend engineer with ability to learn and collaborate in rapidly changing environments and
-  compositions. Currently a first year student at Tashkent State Transport University and finished
-  Frontend course in “Najot Talim”. 
+  I’m a junior front-end developer looking for a new role in an exciting company. I focus on
+writing accessible HTML, using modern CSS practices and writing clean JavaScript. When
+writing JavaScript code, I mostly use React, but I can adapt to whatever tools are required. I’m
+based in Tashkent, Uzbekistan, but I’m happy working remotely and have experience in remote
+teams. When I’m not coding, you’ll find me outdoors.
  </p>
 </div>
 </details>
