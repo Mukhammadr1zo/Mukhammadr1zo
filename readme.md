@@ -10,7 +10,7 @@ compositions.</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhammadr1zo&layout=compact)
 
-  <img src="https://docs.codewars.com/logo.svg" width="20" height="20"> Codewars
+### 💻 Codewars
  ![Codewars](https://www.codewars.com/users/Mukhammadrizo/badges/micro)
 
 
