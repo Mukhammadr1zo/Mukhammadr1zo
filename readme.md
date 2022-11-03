@@ -10,10 +10,8 @@ compositions.</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhammadr1zo&layout=compact)
 
- <div style="display: flex; align-items:center;">
-        <img src="https://docs.codewars.com/logo.svg" width="30" height="30"> Codewars
-    </div>
-    ![Codewars](https://www.codewars.com/users/Mukhammadrizo/badges/micro)
+  <img src="https://docs.codewars.com/logo.svg" width="20" height="20"> Codewars
+ ![Codewars](https://www.codewars.com/users/Mukhammadrizo/badges/micro)
 
 
 ### 🛠 Tech Stack and Tools
