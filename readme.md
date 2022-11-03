@@ -10,6 +10,7 @@ compositions.</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhammadr1zo&layout=compact)
 
+### Codewars
 ![Codewars](https://www.codewars.com/users/Mukhammadrizo/badges/micro)
 
 ### 🛠 Tech Stack and Tools
