@@ -32,14 +32,6 @@ compositions.</h4>
 ![Mukhammadr1zo's github stats](https://github-readme-stats.vercel.app/api?username=Mukhammadr1zo&show_icons=true)
 
 
-
-
-<div >
-  <a href="https://muhammadrizo-dev.netlify.app">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <details>
   <summary>☎️ Contact me</summary>
 <div>
