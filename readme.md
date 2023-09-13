@@ -8,7 +8,7 @@ compositions.</h4>
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-rgb(224,%2022,%20157)?style=flat&logo=sass&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhammadr1zo&layout=compact)
+
 
 ### 💻 Codewars
  ![Codewars](https://www.codewars.com/users/Mukhammadrizo/badges/micro)
