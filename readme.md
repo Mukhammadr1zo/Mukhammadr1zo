@@ -6,22 +6,27 @@ compositions.</h4>
 
 ### ✍️ Languages
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-rgb(224,%2022,%20157)?style=flat&logo=sass&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimovsh&layout=compact)
 
 
 ### 💻 Codewars
  ![Codewars](https://www.codewars.com/users/Mukhammadrizo/badges/micro)
 
-
 ### 🛠 Tech Stack and Tools
 
 | End                                                                  | Stack                                                                                                                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) | ![mui](https://img.shields.io/badge/-Mui-1d365d?style=flat&logo=mui) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux) |
+| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) ![antd](https://img.shields.io/badge/-Ant_Design-0170fe?style=flat&logo=ant-design) ![mui](https://img.shields.io/badge/-Mui-1d365d?style=flat&logo=mui) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux) ![styled-components](https://img.shields.io/badge/-styled_components-3B3B3B?style=flat&logo=styledComponents)|
 | ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-express.js-22ab28?style=express.js) ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-white?style=flat&logo=postgresql) ![mongoDB](https://img.shields.io/badge/-mongoDB-white?style=flat&logo=mongodb)  ![socket](https://img.shields.io/badge/-Socket.io-black?style=flat&logo=socket.io) ![GraphQL](https://img.shields.io/badge/-GraphQL-E00097?style=flat&logo=GraphQL)                                                                                                |
 | ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![WebStorm](https://img.shields.io/badge/-WebStorm-3a3a3a?style=flat&logo=webstorm) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code)                                                 |
- | ![Others](https://img.shields.io/badge/-Others-black?style=flat)         | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github) ![Fedora](https://img.shields.io/badge/-Fedora-black?style=flat&logo=fedora)                                                                                                                                                 
+| ![Workflow](https://img.shields.io/badge/-Ohter-black?style=flat)    | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab) ![ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu) [![Gitmoji][gitmoji]][gcw]                                                                                                                                                 |
+
+
+
+
+                                                                                                                                          
 
 [github-action]: https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github
 [gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-black?style=flat
@@ -62,7 +67,7 @@ compositions.</h4>
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
-  I’m a front-end developer looking for a new role in an exciting company. I focus on
+  I’m a junior front-end developer looking for a new role in an exciting company. I focus on
 writing accessible HTML, using modern CSS practices and writing clean JavaScript. When
 writing JavaScript code, I mostly use React, but I can adapt to whatever tools are required. I’m
 based in Tashkent, Uzbekistan, but I’m happy working remotely and have experience in remote
