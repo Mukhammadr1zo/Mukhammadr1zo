@@ -6,7 +6,7 @@ compositions.</h4>
 
 ### ✍️ Languages
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-rgb(224,%2022,%20157)?style=flat&logo=sass&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-rgb(224,%2022,%20157)?style=flat&logo=sass&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white)
 
 
 
@@ -62,7 +62,7 @@ compositions.</h4>
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
-  I’m a junior front-end developer looking for a new role in an exciting company. I focus on
+  I’m a front-end developer looking for a new role in an exciting company. I focus on
 writing accessible HTML, using modern CSS practices and writing clean JavaScript. When
 writing JavaScript code, I mostly use React, but I can adapt to whatever tools are required. I’m
 based in Tashkent, Uzbekistan, but I’m happy working remotely and have experience in remote
